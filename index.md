@@ -1,4 +1,4 @@
-[Image](./logo.png)
+(./logo.png)
 
 ## Welcome to GitHub Pages
 
