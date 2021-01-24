@@ -1,7 +1,7 @@
 ## Welcome to My Portfolio
 ##### Austin
 
-![Image](./logo4.png)
+![Image](./logo7.png)
 
 ## Welcome to GitHub Pages
 
