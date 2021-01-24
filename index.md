@@ -5,7 +5,7 @@
 
 ### Current Projects
 
-+ Capstone Senior Project For https://tldrsec.com/ 
++ Capstone Senior Project For Our Client https://tldrsec.com/ 
   + Full Scale Web Application production with a team of 4
   + Front-end using Vue.js with a Python Back-end hosted on AWS
   + Stay tuned for a version Release!
