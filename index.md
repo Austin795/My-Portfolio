@@ -1,7 +1,9 @@
+![Image](./logo8.png)
+
 ## Welcome to My Portfolio
 ##### Austin
 
-![Image](./logo7.png)
+
 
 ## Welcome to GitHub Pages
 
