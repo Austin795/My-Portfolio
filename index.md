@@ -1,7 +1,7 @@
 ![Image](./logo9.png)
 
 # Austin Shadel
-
+###### San Diego, California 
 
 
 
