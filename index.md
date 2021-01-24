@@ -1,9 +1,7 @@
 ![Image](./logo9.png) 
 # Austin Shadel
-###### San Diego, California 
-
-
-
+###### Based in San Diego, California 
+###### Contact: Austinshadel795@gmail.com
 
 ### Markdown
 
