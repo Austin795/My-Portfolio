@@ -18,4 +18,6 @@
 More to Come.
 
 Resume.
-![Image](./resume2021.pdf) 
+
+<a href="username.github.io/resume2021.pdf" target="_blank">PDF.</a>
+
