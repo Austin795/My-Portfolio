@@ -16,3 +16,6 @@
 + Barcode Scanner For Computer Imaging University Course
 
 More to Come.
+
+Resume.
+![Image](./resume2021.pdf) 
