@@ -19,5 +19,7 @@ More to Come.
 
 Resume.
 
+<html>
 <a href="austin795.github.io/resumeFolder/resume2021.pdf" target="_blank">Resume PDF Link</a>
+ </html>
 
